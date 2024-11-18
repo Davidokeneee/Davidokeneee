@@ -7,7 +7,7 @@ Languages: JavaScript, TypeScript, C, Python
 Frameworks/Libraries: Angular
 Currently Learning: C, Python
 🌱 What I'm Working On
-I'm currently deepening my expertise in C# and Python while building exciting projects that solve real-world problems.
+I'm currently deepening my expertise in C and Python while building exciting projects that solve real-world problems.
 
 💻 Projects
 Frontend Development: I'm passionate about crafting responsive, dynamic websites and web apps using Angular.
